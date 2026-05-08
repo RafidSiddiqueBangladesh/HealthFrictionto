@@ -16,7 +16,7 @@ import dashboard12 from "@/assets/newpic/i12.png";
 import dashboard13 from "@/assets/newpic/i13.png";
 
 const mockups = [dashboard1, dashboard2, dashboard3, dashboard4, dashboard5, dashboard6, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard12, dashboard13];
-const APK_DOWNLOAD_URL = "https://drive.google.com/file/d/1XkfeP1GMVFAHSnilLFxJdwVhrb8BqBUu/view?usp=sharing";
+const APK_DOWNLOAD_URL = "https://drive.google.com/file/d/1A4iAJWcImRPB1F6wHFQP1yR2cyY3vMk5/view?usp=sharing";
 const WEB_APP_URL = "https://fancy-kangaroo-36756f.netlify.app/";
 
 const HeroSection = () => {
